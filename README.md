@@ -22,11 +22,12 @@ Product-Management-System
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   └── com.example.productmanagement
+│   │   │   └── com.flipkart.product_management_system
 │   │   │       ├── controller
 │   │   │       ├── entity
 │   │   │       ├── repository
 │   │   │       └── service
+|   |   |       └── ProductManagementSystemApplication.java
 │   │   │
 │   │   └── resources
 │   │       └── application.properties
